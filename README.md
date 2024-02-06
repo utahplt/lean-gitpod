@@ -1,4 +1,4 @@
-# Dafny GitPod
+# Lean GitPod
 
 ## Setup
 
@@ -12,4 +12,9 @@
 
 ## Usage
 
-TBD
+Open a `.lean` file and start editing.
+
+The Lean Infoview should appear in a side panel.
+
+Click the "forall" symbol at the top right of the code window to restart Lean if needed.
+
