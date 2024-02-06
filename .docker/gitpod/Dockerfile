@@ -1,4 +1,5 @@
 # This is the Dockerfile for `leanprovercommunity/mathlib:gitpod`.
+# Adapted for CS 6110 from https://github.com/brown-cs22/CS22-Lean-2023
 
 # gitpod doesn't support multiple FROM statements, (or rather, you can't copy from one to another)
 # so we just install everything in one go
